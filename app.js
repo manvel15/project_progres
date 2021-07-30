@@ -1,0 +1,10 @@
+1. pwd command
+2. cd command
+3. ls command
+4. cat command
+5. cp command
+6. mv command
+7. mkdir command
+8. rmdir command
+9. rm command
+10. touch command
